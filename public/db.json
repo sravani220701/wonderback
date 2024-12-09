@@ -1,0 +1,67 @@
+{
+  "wonders": [
+    {
+      "id": 1,
+      "name": "Great Wall of China",
+      "description": "An ancient series of walls and fortifications located in northern China.",
+      "location": "China",
+      "establishedYear":"700 BCE",
+      "additionalDetail": "One of the most famous architectural achievements in history.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/640px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Petra",
+      "description": "A historical and archaeological city famous for its rock-cut architecture and water conduit system.",
+      "location": "Jordan",
+      "establishedYear":"312 BCE",
+      "additionalDetail": "Also known as the 'Rose City' for its distinctive color.",
+      "imageUrl": "https://cdn.britannica.com/88/189788-050-9B5DB3A4/Al-Dayr-Petra-Jordan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Christ the Redeemer",
+      "description": "An iconic statue of Jesus Christ with open arms, symbolizing peace.",
+      "location": "Rio de Janeiro, Brazil",
+      "establishedYear":"1931 CE",
+      "additionalDetail": "It stands 30 meters tall atop the Corcovado mountain.",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-1243915954.jpg?c=original"
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "description": "An Incan citadel set high in the Andes Mountains in Peru.",
+      "location": "Peru",
+      "establishedYear": "1450 CE",
+      "additionalDetail": "Believed to be a royal estate or sacred religious site.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1024px-Machu_Picchu%2C_Peru.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chichen Itza",
+      "description": "A large pre-Columbian archaeological site built by the Maya civilization.",
+      "location": "Yucatán, Mexico",
+      "establishedYear":"600 CE",
+      "additionalDetail": "The site includes the Temple of Kukulcan, also known as El Castillo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Roman Colosseum",
+      "description": "An ancient amphitheater in Rome known for gladiatorial contests and public spectacles.",
+      "location": "Rome, Italy",
+      "establishedYear": "80 CE",
+      "additionalDetail": "It could hold an estimated 50,000 to 80,000 spectators.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Taj Mahal",
+      "description": "A white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "location": "Agra, India",
+      "establishedYear":"1653 CE",
+      "additionalDetail": "Considered one of the most beautiful buildings in the world.",
+      "imageUrl": "https://destinosahora.com/wp-content/uploads/2019/09/tajmahajnoche-1280x720.jpg"
+    }
+  ]
+}
