@@ -31,7 +31,7 @@ const server = http.createServer((req, res) =>{
             {
                 // connect to the MongoDB cluster
                 await mongo_client_connection.connect();
-                const wonders_collection = mongo_client_connection.db("wonders").collection(wonders);
+                const wonders_collection = mongo_client_connection.db("wonders").collection("wonders");
                 
                 const cursor = wonders_collection.find({});
                 const results = await cursor.toArray();
